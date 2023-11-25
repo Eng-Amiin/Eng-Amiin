@@ -1,4 +1,4 @@
-<img src=https://4.bp.blogspot.com/-6vGvy4vCcvE/Xdcwnaf7XzI/AAAAAAAANZM/Io2mm8SXjmUVCo60byOn-XpLUpn54nizACLcBGAsYHQ/s1600/image1.gif />
+
 <h1 align="center">Hi 👋, I'm Eng-Amiin</h1>
 <h3 align="center">A passionate Webdeveloper from Somalia</h3>
 
