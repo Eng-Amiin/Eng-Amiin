@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NodeJs**
 
-- 👯 I’m looking to collaborate on **Food**
+- 👯 I’m looking to collaborate on **Food Order App**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Eng-Amiin](https://github.com/Eng-Amiin)
 
